@@ -1,6 +1,6 @@
-![alt text](https://www.hackabit.in/images/title+%20teqip.png)
-
-
+<p align="center">
+  <img src="https://www.hackabit.in/images/title+%20teqip.png" width="350" alt="hack-a-bit">
+</p>
 **Members**    : Kartik Kumar, Nachiketa Raina, Aashish Upadhyay  
 **College**    : Maharaja Surajmal Institute of Technology  
 **Idea Title** : VizAudi(Visualize the audio)  
